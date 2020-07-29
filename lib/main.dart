@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
           ),
           actions: <Widget>[
             SizedBox(
-              width: 44,
+              width: 144,
               child: FlatButton(
                 child: Icon(Icons.search),
                 onPressed: () {
